@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void scmJob(){
+        System.out.println("executing SCM in Jenkins");
+    }
 }
