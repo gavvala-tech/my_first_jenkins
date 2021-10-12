@@ -15,4 +15,8 @@ public class App
     public static void scmJob(){
         System.out.println("executing SCM in Jenkins");
     }
+
+    public static void scmJob2() {
+        System.out.println("executing SCM in Jenkins Tested");
+    }
 }
